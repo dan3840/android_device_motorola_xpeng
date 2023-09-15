@@ -14,7 +14,7 @@ $(call inherit-product, device/motorola/xpeng/device.mk)
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_xpeng
+PRODUCT_NAME := lmodroid_xpeng
 PRODUCT_DEVICE := xpeng
 PRODUCT_MANUFACTURER := motorola
 PRODUCT_BRAND := motorola
